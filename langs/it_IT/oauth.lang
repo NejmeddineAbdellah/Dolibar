@@ -1,0 +1,36 @@
+# Dolibarr language file - Source file is en_US - oauth
+ConfigOAuth=Configurazione Oauth
+OAuthServices=OAuth services
+ManualTokenGeneration=Generazione manuale del token
+TokenManager=Token manager
+IsTokenGenerated=Is token generated ?
+NoAccessToken=Nessun token per l'accesso è salvato nel database locale
+HasAccessToken=Un token è stato generato e salvato nel database locale
+NewTokenStored=Token received and saved
+ToCheckDeleteTokenOnProvider=Click here to check/delete authorization saved by %s OAuth provider
+TokenDeleted=Token eliminato
+RequestAccess=Clicca qui per richiedere/rinnovare l'accesso e ricevere un nuovo token
+DeleteAccess=Click here to delete token
+UseTheFollowingUrlAsRedirectURI=Usa il seguente indirizzo come Redirect URI quando crei le credenziali sul tuo provider OAuth:
+ListOfSupportedOauthProviders=Aggiungi i tuoi provider di token OAuth2. Quindi, vai sulla pagina di amministrazione del tuo provider OAuth per creare/ottenere un ID OAuth e un segreto e salvarli qui. Una volta terminato, passa all'altra scheda per generare il tuo token.
+OAuthSetupForLogin=Pagina per gestire (generare/eliminare) i token OAuth
+SeePreviousTab=Vedi la scheda precedente
+OAuthProvider=Provider OAuth
+OAuthIDSecret=OAuth ID and Secret
+TOKEN_REFRESH=Token Refresh Present
+TOKEN_EXPIRED=Token scaduto
+TOKEN_EXPIRE_AT=Il token sade il
+TOKEN_DELETE=Elimina il token salvato
+OAUTH_GOOGLE_NAME=Oauth Google service
+OAUTH_GOOGLE_ID=Oauth Google Id
+OAUTH_GOOGLE_SECRET=Oauth Google Secret
+OAUTH_GITHUB_NAME=Oauth GitHub service
+OAUTH_GITHUB_ID=Oauth GitHub Id
+OAUTH_GITHUB_SECRET=Oauth GitHub Secret
+OAUTH_URL_FOR_CREDENTIAL=Vai a <a class="notasortlink" href="%s" target="_blank" rel="noopener noreferrer external"> questa pagina <span class="fas fa-external-link-alt paddingleft"> </span> </a> per creare o ottenere il tuo ID OAuth e Secret
+OAUTH_STRIPE_TEST_NAME=OAuth Stripe Test
+OAUTH_STRIPE_LIVE_NAME=OAuth Stripe Live
+OAUTH_ID=OAuth ID
+OAUTH_SECRET=OAuth segreto
+OAuthProviderAdded=Aggiunto provider OAuth
+AOAuthEntryForThisProviderAndLabelAlreadyHasAKey=Esiste già una voce OAuth per questo provider ed etichetta

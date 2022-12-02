@@ -1,0 +1,27 @@
+# Dolibarr language file - Source file is en_US - salaries
+SALARIES_ACCOUNTING_ACCOUNT_PAYMENT=A felhasználók harmadik felei számára használt számviteli fiók
+SALARIES_ACCOUNTING_ACCOUNT_PAYMENT_Desc=A felhasználói kártyán definiált dedikált könyvelési számla csak alkönyvelésre lesz használva. Ez lesz a főkönyvhöz és az alkönyvi könyvelés alapértelmezett értékeként használatos, ha a felhasználónál nincs dedikált felhasználói fiók.
+SALARIES_ACCOUNTING_ACCOUNT_CHARGE=Alapértelmezés szerint könyvelési számla a bérfizetéshez
+CREATE_NEW_SALARY_WITHOUT_AUTO_PAYMENT=A fizetés létrehozásakor alapértelmezés szerint hagyja üresen az "Összfizetés automatikus létrehozása" lehetőséget
+Salary=Fizetés
+Salaries=Fizetések
+NewSalary=Új fizetés
+AddSalary=Bér hozzáadása
+NewSalaryPayment=Új bérkártya
+AddSalaryPayment=Bérfizetés hozzáadása
+SalaryPayment=Bérfizetés
+SalariesPayments=Bérek kifizetése
+SalariesPaymentsOf=%s fizetések
+ShowSalaryPayment=Mutasd a fizetést
+THM=Átlagos óradíj
+TJM=Átlagos napi díj
+CurrentSalary=Jelenlegi fizetés
+THMDescription=Ez az érték használható a felhasználók által beírt projektben eltöltött idő költségének kiszámítására, ha modulprojektet használnak
+TJMDescription=Ez az érték jelenleg csak tájékoztató jellegű, és nem használható semmilyen számításhoz
+LastSalaries=A legutóbbi %s fizetések
+AllSalaries=Minden fizetés
+SalariesStatistics=Bérstatisztika
+SalariesAndPayments=Bérek és kifizetések
+ConfirmDeleteSalaryPayment=Törölni szeretné ezt a fizetési kifizetést?
+FillFieldFirst=Először töltse ki az alkalmazott mezőt
+UpdateAmountWithLastSalary=Állítsa be az összeget az utolsó fizetéssel

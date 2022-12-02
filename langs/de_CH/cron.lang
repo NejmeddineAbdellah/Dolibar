@@ -1,0 +1,6 @@
+# Dolibarr language file - Source file is en_US - cron
+CronMethodDoesNotExists=Klasse %s hat keine %s Methode
+CronDelete=cronjobs löschen
+CronPriority=Rang
+JobFinished=Job gestarted und beendet
+MakeLocalDatabaseDumpShort=Lokale Datenbanksicherung
