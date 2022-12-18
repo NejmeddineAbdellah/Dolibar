@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS llx_internal_notification
+(
+  rowid INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  action VARCHAR(45) NOT NULL,
+  receiver_email VARCHAR(255) NOT NULL,
+  subject VARCHAR(255) NOT NULL,
+  body TEXT NOT NULL
+)ENGINE = InnoDB

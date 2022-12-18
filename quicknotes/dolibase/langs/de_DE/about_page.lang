@@ -1,0 +1,22 @@
+# Dolibase About Page - de_DE
+#
+# Copyright (C) 2018 AXeL
+
+Settings = die Einstellungen
+Changelog = Änderungsprotokoll
+About = Über
+DevelopedBy = Entwickelt von
+DolibaseVersion = Dieses Modul verwendet die Dolibase-Version
+ForAnyQuestions = Für Fragen oder Feedback senden Sie bitte eine E-Mail an
+FindMyModules = Finde meine anderen Module auf
+Dolistore = Dolistore
+ReportBug = Einen Fehler melden
+TechnicalInformations = Technische informationen
+DolibarrVersion = Dolibarr version
+ModuleVersion = Modulversion
+PHPVersion = PHP version
+DatabaseVersion = Datenbankversion
+WebServerVersion = Web server version
+ReportBugNotice = Die folgenden technischen Informationen sollten in Ihrem Fehlerbericht enthalten sein, zusätzlich zu Datei %s um die Wahrscheinlichkeit einer schnellen Behebung des Fehlers zu erhöhen.
+EnableLogModule = Debug Logs-Modul ist nicht aktiviert %s
+ClickToEnable = Klicken Sie zum Aktivieren

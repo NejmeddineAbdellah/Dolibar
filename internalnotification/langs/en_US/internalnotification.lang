@@ -1,0 +1,96 @@
+# <Internal notifications>
+# Copyright (C) 2015 Gilles Lengy / Artaban Communication gilles.lengy@artaban.fr
+# Copyright (C) 2015 Gilles Dumont / Artaban Communication gilles@artaban.fr
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+# Dolibarr language file - en_US - Internal Notifications
+CHARSET= UTF-8
+Module700001Name= Internal notifications
+Module700001Desc= Send notifications when certain actions (Events, Contacts, Third parties)
+
+#### ADMIN SETUP INTERFACE ####
+
+# Main titles
+InternalNotifications= Internal notifications
+InternalNotificationSetupTitle= Setup Internal notifications
+
+# Menu
+
+# Page
+DeleteNotification= Delete this notification
+DeleteNotificationConfirmation= Are you sure you want to delete this notification ?
+ErrorNoSetOfForms= Erreur : There is no form available for this tab.
+InternalNotificationAvailableTitle= Available Notifications
+InternalNotificationSetupDescription= This page allows to setup the recipients, the subject and body of the emails sent...<br />The emails adresses are free and not atttached to a user...<br /> All fields are mandatory...
+InternalNotificationSetupAgendaInactives= The Agenda module is not activated...
+InternalNotificationSetupThirdPartiesInactives= The Third parties module is not activated...
+
+# Errors
+AllFieldsAreMandatory= All fields are mandatory
+InvalidEmail= At least one email is invalid
+NotificationDeletedKO= The notification was not deleted
+SetupNotificationKO= The configuration of the notification does not go well
+
+
+# Mesgs
+NotificationDeletedOK= The notification was deleted
+SetupNotificationOK= The configuration of the notification was successful
+
+
+# Buttons
+CreateNotificationTemplate= Create this notification
+DeleteNotificationTemplate= Delete this notification
+ModifyNotificationTemplate= Modify this notification
+
+# FORMS
+
+# Notification Titles
+TitleTemplateNotification_COMPANY_CREATE= Third party creation notification
+TitleTemplateNotification_COMPANY_MODIFY= Third party modification notification
+TitleTemplateNotification_COMPANY_DELETE= Third party suppression notification
+
+TitleTemplateNotification_CONTACT_CREATE= Contact creation notification
+TitleTemplateNotification_CONTACT_MODIFY= Contact modification notification
+TitleTemplateNotification_CONTACT_DELETE= Contact suppression notification
+TitleTemplateNotification_CONTACT_ENABLEDISABLE= Contact activation/desactivation notification
+
+TitleTemplateNotification_ACTION_CREATE= Event/Task creation notification
+TitleTemplateNotification_ACTION_MODIFY= Event/Task modification notification
+TitleTemplateNotification_ACTION_DELETE= Event/Task suppression notification
+
+SubstitutionTags= Alternative Tags
+
+# Fields
+MailDestinataireNotification= Email(s) recipient(s)
+NotifyCommercial= Notify commercial
+NotifyCommercialNotPossible = Impossible due to Dolibarr limitation
+NotifyUsersAndContacts= Notify users and contact
+SubjectNotification= Subject of the notification
+
+# Tag
+ContactFirstnameLastname = First name and last name of the contact
+EventTitle= Event/Task title
+EventLocation= Location 
+EventDateBegin= Start date
+EventDateEnd= End date
+EventDescription= Description
+EventAssignedTo= First name and last name of the sales representatives assigned
+Link= Link
+UserFisrtnameLastname= First name and last name of the user
+ThirdpartyName= Third party name
+ThirdpartyComNames = Third party commercials name
+ThirdpartyComEmails = Third party commercials email
+
+#Notification

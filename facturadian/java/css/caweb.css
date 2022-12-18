@@ -1,0 +1,41 @@
+/* 
+    Document   : caweb
+    Created on : 30-nov-2010, 15:39:50
+    Author     : Miguel Angel Vargas Cabezas
+    Description:
+        Almacernar las clases mas usadas en el sistema CAWEB
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+.mayusculas{text-transform: uppercase;}
+
+.formulario{
+    background-color: #D8D8D8;
+}
+
+.boton{
+    font-size: 14px;
+    font-weight: 900;
+/*    padding: 3px;*/
+    width: auto;
+    height: auto;
+    cursor: pointer;
+}
+
+.origenTitulo{
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic
+}
+
+.clinput{
+/*    margin: 5px 10px 0px 10px;*/
+}

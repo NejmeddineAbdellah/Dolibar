@@ -1,0 +1,1 @@
+ALTER TABLE llx_internal_notification ADD checkbox_1 ENUM('false', 'true') NOT NULL DEFAULT 'false';

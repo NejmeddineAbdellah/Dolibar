@@ -1,0 +1,98 @@
+# Copyright (C) 2020 Rabib Ahmad <rabib@japantravel.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleUserActivityDashboardName'
+ModuleUserActivityDashboardName = User Activity Dashboard
+# Module description 'ModuleUserActivityDashboardDesc'
+ModuleUserActivityDashboardDesc = User Activity Dashboard description
+
+UserActivityDashboardArea=User Activity Dashboard
+UserActivityDashboardTAGraphArea=User Activity Dashboard Travel Agency
+UserActivityDashboardMediaGraphArea=User Activity Dashboard Media
+UserActivityDashboardEngineeringArea=User Activity Dashboard Engineering
+
+#
+# Admin page
+#
+UserActivityDashboardSetup = User Activity Dashboard setup
+UserActivityDashboardCategorySetup = User Activity Dashboard Category setup
+Settings = Settings
+UserActivityDashboardSetupPage = User Activity Dashboard setup page
+UserActivityDashboardCategorySetupPage = User Activity Dashboard category setup page
+USERACTIVITYDASHBOARD_SHOW_WEEKLY=Weekly
+USERACTIVITYDASHBOARD_SHOW_WEEKLYTooltip=Show weekly user activity
+USERACTIVITYDASHBOARD_SHOW_MONTHLY=Monthly
+USERACTIVITYDASHBOARD_SHOW_MONTHLYTooltip=Show monthly user activity
+USERACTIVITYDASHBOARD_SHOW_QUARTERLY=Quarterly
+USERACTIVITYDASHBOARD_SHOW_QUARTERLYTooltip=Show quarterly user activity
+USERACTIVITYDASHBOARD_SHOW_YEARLY=Yearly
+USERACTIVITYDASHBOARD_SHOW_YEARLYTooltip=Show yearly user activity
+USERACTIVITYDASHBOARD_SHOW_DATE_FROM=Date From
+USERACTIVITYDASHBOARD_SHOW_DATE_FROMTooltip=Show user activity from date
+USERACTIVITYDASHBOARD_SHOW_DATE_TO=Date To
+USERACTIVITYDASHBOARD_SHOW_DATE_TOTooltip=Show user activity to date
+USERACTIVITYDASHBOARD_SHOW_USERNAME_GRAPH=Show username in the graph
+USERACTIVITYDASHBOARD_SHOW_USERNAME_GRAPHTooltip=Show username in the graph
+USERACTIVITYDASHBOARD_SHOW_SUB_CATE_GRAPH=Show user sub-category in the graph
+USERACTIVITYDASHBOARD_SHOW_SUB_CATE_GRAPHTooltip=Show user sub-category in the graph
+
+USERACTIVITYDASHBOARD_ENABLE_EXTRA_DATE=Enable date in extra field
+USERACTIVITYDASHBOARD_ENABLE_ACCOUNTING=Enable accounting
+USERACTIVITYDASHBOARD_ENABLE_E_COMMERCE=eCommerce
+USERACTIVITYDASHBOARD_MODULE_GENERAL=general
+
+USERACTIVITYDASHBOARD_TYPE_GENERAL=general
+USERACTIVITYDASHBOARD_TYPE_DATE=date
+USERACTIVITYDASHBOARD_TYPE_GRAPH=graph
+#
+# About page
+#
+About = About
+UserActivityDashboardAbout = About User Activity Dashboard
+UserActivityDashboardAboutPage = User Activity Dashboard about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
+
+#
+# Index page
+#
+PerformanceSummary=%s Performance Summary for %s
+DisplayOption=Display Options
+ProspectsEntered=%s <br> %s No. of Prospects Entered
+QuotationsEntered=%s <br> %s No. of Bids/Proposals Submitted
+QuotationsLegend=Total No. of Bids/Proposals Submitted this %s
+ConversionSalesEntered=%s <br> %s No. of Conversion to Sales
+ConversionSaleLegend=Total No. of Conversion to Sales this %s
+ConversionSalesPercentEntered=%s <br> %s %% Conversion to Sales <br>(Rate of Wins Over Opportunity)
+ConversionSalePercentLegend=Rate of Wins Over Opportunity (%% of Conversion to Sales)
+ConversionSalesTotalEntered=%s <br> %s Sales
+ConversionSaleTotalLegend=Conversion to Sales this %s
+ProfitTotalEntered=%s <br> %s Gross Profit
+ProfitTotalLegend=Gross Profit this %s
+CostSalesPercentEntered=%s <br> %s %% Cost to Sales
+CostSalePercentLegend=%% Cost to Sales

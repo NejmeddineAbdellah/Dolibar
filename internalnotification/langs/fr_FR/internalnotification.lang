@@ -1,0 +1,96 @@
+# <Internal notifications>
+# Copyright (C) 2015 Gilles Lengy / Artaban Communication gilles.lengy@artaban.fr
+# Copyright (C) 2015 Gilles Dumont / Artaban Communication gilles@artaban.fr
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+# Dolibarr language file - fr_FR - Internal Notification
+CHARSET= UTF-8
+Module700001Name= Notifications Interne
+Module700001Desc= Envoi de notifications lors de certaines actions ( Evènements, tiers et contacts )
+
+#### ADMIN SETUP INTERFACE ####
+
+# Main titles
+InternalNotifications= Notifications internes
+InternalNotificationSetupTitle= Configuration des notifications internes
+
+# Menu
+
+# Page
+DeleteNotification= Suppression de cette notification
+DeleteNotificationConfirmation= Confirmez-vous la suppression de cette notification
+ErrorNoSetOfForms= Erreur : Il n'y a pas de formulaires possibles pour cet onglet.
+InternalNotificationAvailableTitle= Notifications disponibles
+InternalNotificationSetupDescription= Cette page permet de configurer les destinataires, le sujet et le corps des courriels envoyés comme notification...<br />Les courriels sont libres et ne sont pas obligatoirement attachés à un utilisateur...<br /> Tous les champs sont obligatoires...
+InternalNotificationSetupAgendaInactives= Le modules "Agenda" n'est pas activé...
+InternalNotificationSetupThirdPartiesInactives= Le modules "Tiers" n'est pas activé...
+
+# Errors
+AllFieldsAreMandatory= Tous les champs sont obligatoires
+InvalidEmail= Au moins un courriel est invalide
+NotificationDeletedKO= La notification n'a pas été supprimé
+SetupNotificationKO= La configuration de la notification ne s'est pas bien passée
+
+
+# Mesgs
+NotificationDeletedOK= La notification a été supprimé
+SetupNotificationOK= La configuration de la notification s'est bien passée
+
+
+# Buttons
+CreateNotificationTemplate= Créer cette notification
+DeleteNotificationTemplate= Supprimer cette notification
+ModifyNotificationTemplate= Modifier cette notification
+
+# FORMS
+
+# Notification Titles
+TitleTemplateNotification_COMPANY_CREATE= Notification de création de tiers
+TitleTemplateNotification_COMPANY_MODIFY= Notification de modification de tiers
+TitleTemplateNotification_COMPANY_DELETE= Notification de suppression de tiers
+
+TitleTemplateNotification_CONTACT_CREATE= Notification de création de contact
+TitleTemplateNotification_CONTACT_MODIFY= Notification de modification de contact
+TitleTemplateNotification_CONTACT_DELETE= Notification de suppression de contact
+TitleTemplateNotification_CONTACT_ENABLEDISABLE= Notification d'activation/désactivation de contact
+
+TitleTemplateNotification_ACTION_CREATE= Notification de création d'un événement / une tâche
+TitleTemplateNotification_ACTION_MODIFY= Notification de modification d'un événement / une tâche
+TitleTemplateNotification_ACTION_DELETE= Notification de suppression d'un événement / une tâche
+
+SubstitutionTags= Tags de substitution
+
+# Fields
+MailDestinataireNotification= Courriel(s) destinataire(s)
+NotifyCommercial= Notifier le commercial
+NotifyCommercialNotPossible = Impossible à cause de limitation de Dolibarr
+NotifyUsersAndContacts= Notifier utilisateurs et contact
+SubjectNotification= Sujet de la notification
+
+# Tag
+ContactFirstnameLastname = Prénom et nom du contact
+EventTitle= Titre de l'événement / tâche
+EventLocation= Lieu
+EventDateBegin = Date de début
+EventDateEnd = Date de fin
+EventDescription= Description
+EventAssignedTo= Prénom et nom des commerciaux concernés
+Link= Lien
+UserFisrtnameLastname= Prénom et nom de l'utilisateur
+ThirdpartyName= Nom du Tiers
+ThirdpartyComNames = Nom des commerciaux du Tiers
+ThirdpartyComEmails = Email des commerciaux du Tiers
+
+#Notification

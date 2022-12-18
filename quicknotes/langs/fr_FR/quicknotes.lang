@@ -1,0 +1,13 @@
+# QUICKNOTES MODULE - fr_FR
+#
+# Copyright (C) 2018 AXeL
+
+#
+# Générique
+#
+QuickNotes = Quick-Notes
+QuickNotesDescription = Permet à chaque utilisateur de prendre et consulter ses notes depuis n'importe quelle page Dolibarr
+Notes = Notes
+ClearAll = Effacer
+SaveAndClose = Enregistrer et fermer
+ErrorWhileSaving = Erreur de sauvegarde..
